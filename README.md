@@ -1,4 +1,3 @@
-# ltcclickbot
 # Link LTCClickBot Telegram
 Hargai Refferal : https://t.me/Litecoin_click_bot?start=M8pZn
 
